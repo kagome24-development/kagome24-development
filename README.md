@@ -1,7 +1,7 @@
 <h1 align="center">Hi i’m mynecraft-dev</h1>
 <h3 align="center">dis is youtube-minecraft-development-team</h3>
 
-- my website [https://mynecraft-dev.github.io/home/index.html](https://mynecraft-dev.github.io/home/index.html)
+- my website [https://kagome24-development.github.io/home/index.html](https://kagome24-development.github.io/home/index.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
