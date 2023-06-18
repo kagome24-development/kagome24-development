@@ -1,5 +1,4 @@
-<h1 align="center">Hi i’m mynecraft-dev</h1>
-<h3 align="center">Hello World !</h3>
+<h1 align="center">Hello World !</h1>
 
 - my website [https://www.kagome24.com](https://kagome24.com)
 
